@@ -16,10 +16,12 @@ more_movies = [
     :release_date => '30-May-2019'},
   {:title => 'Nomadland', :rating => 'R',
     :release_date => '19-Feb-2021'},
+  {:title => 'CODA', :rating => 'PG-13', 
+    :release_date => '13-Aug-2021'},
   {:title => 'Crazy Rich Asians', :rating => 'PG-13',
-    :release_date => '22-Aug-2018'}
+    :release_date => '22-Aug-2018'},
   {:title => 'Spirited Away', :rating => 'G',
-    :release_date => '20-Dec-2001'}
+    :release_date => '20-Dec-2001'},
   {:title => 'Avengers: Endgame', :rating => 'PG-13',
     :release_date => '24-April-2019'}
 ]
